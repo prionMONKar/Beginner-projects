@@ -1,0 +1,14 @@
+certifi==2025.8.3
+charset-normalizer==3.4.3
+clear==2.0.0
+idna==3.10
+numpy==2.3.2
+pyarrow==21.0.0
+pylance==0.33.0
+pywebio==1.8.4
+requests==2.32.4
+tornado==6.5.2
+ua-parser==1.0.1
+ua-parser-builtins==0.18.0.post1
+urllib3==2.5.0
+user-agents==2.2.0
