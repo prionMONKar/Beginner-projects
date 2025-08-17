@@ -1,8 +1,6 @@
 #Fun fact Web App Generator using PyWebIO module
 #Create a virtual environment
-#pip install pywebio
-#pip install pylance
-#python version 3.12.7
+#pip install -r requirements.txt
 
 import json                                                             #loads python's built-in library to parse data returned from APIs
 import requests                                                         #to send HTTP requests like GET to fetch data from web API
